@@ -34,7 +34,7 @@ Otherwise boots BOOT2.ELF
 Includes packed/unpacked ELF</pre>
 
 Credits:
-
+<pre>
 Uses OSDInit.c/h & libcdvd_add.c/h from 'OSD Initialization Libraries' by SP193
 Compiled with current PS2SDK as of Nov 2019
-Packed with PS2-Packer v1.1.1-unofficial-09ac9c6 by Nicolas "Pixel" Noble 
+Packed with PS2-Packer v1.1.1-unofficial-09ac9c6 by Nicolas "Pixel" Noble</pre>
